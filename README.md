@@ -19,3 +19,24 @@ on biologically inspired operators such as mutation, crossover and selection .
             </p>
  </td>
 </tr>
+</table>
+
+### 3. Essential Terms
+
+```
+Population 
+Chromosome
+Genes
+Encoding Methods
+Fitness Function
+```
+
+
+### 3. Algorithm Steps
+
+Five phases are considered in a genetic algorithm :
+1. Initial population
+2. Fitness function
+3. Selection
+4. Crossover
+5. Mutation
