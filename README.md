@@ -251,10 +251,11 @@ The algorithm terminates if the population has converged. Then it is said that t
         }
     }
    ```
-   [x] TEST : 
+   
+   * TEST : 
    Word to Guess `sdia`
    
-   <table>
+<table>
 <tr>
 <td width="50%">
           <p align="center">
