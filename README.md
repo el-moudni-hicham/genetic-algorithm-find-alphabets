@@ -6,13 +6,13 @@
 * [Genetic Algorithm Steps](#genetic-algorithm-steps)
 * [Example Implementation in Java to Guess a Word ](#example-implementation-in-java-to-guess-a-word )
 
-### 1. Genetic Algorithm Definition
+### Genetic Algorithm Definition
 
 Genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary 
 algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying 
 on biologically inspired operators such as mutation, crossover and selection .
 
-### 2. Genetic Algorithm Pseudocode
+### Genetic Algorithm Pseudocode
 
 ```java
 START
@@ -37,7 +37,7 @@ STOP
 </tr>
 </table>
 
-### 3. Essential Terms
+### Essential Terms
 
 ```
 Population 
@@ -130,11 +130,12 @@ Mutation occurs to maintain diversity within the population and prevent prematur
 
 The algorithm terminates if the population has converged. Then it is said that the genetic algorithm has provided a set of solutions to our problem.
 
-## 4. Example Implementation in Java to Guess a Word 
+## Example Implementation in Java to Guess a Word 
 
 1. Initial population
 
-   [x] Create Individual :
+   - Create Individual :
+   
    ```java
    package ma.enset.entites;
 
@@ -175,7 +176,8 @@ The algorithm terminates if the population has converged. Then it is said that t
    }
 
    ```
-   [x] Initialize Population :
+   - Initialize Population :
+   
    ```java
    public void initializePopulation(){
         for (int i = 0; i < populaion ; i++) {
@@ -249,3 +251,16 @@ The algorithm terminates if the population has converged. Then it is said that t
         }
     }
    ```
+   [x] TEST : 
+   Word to Guess `sdia`
+   
+   <table>
+<tr>
+<td width="50%">
+          <p align="center">
+             <img src="https://user-images.githubusercontent.com/85403056/237059504-8489439b-d49f-4046-ba92-9293a6c5f887.png" alt="project example"/>
+            </p>
+ </td>
+</tr>
+</table>
+
