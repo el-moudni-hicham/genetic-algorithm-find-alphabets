@@ -1,4 +1,4 @@
-# Genetic Algorithm
+# 🧬 Genetic Algorithm
 
 ## Summary
 * [Genetic Algorithm Definition](#genetic-algorithm-definition)
