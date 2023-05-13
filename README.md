@@ -123,6 +123,7 @@ Mutation occurs to maintain diversity within the population and prevent prematur
              <img src="https://user-images.githubusercontent.com/85403056/237054212-cf57d172-7756-41f3-98bb-640bbe72d6eb.png" alt="project example" width = "400"/>
             </p>
  </td>
+    
 </tr>
 </table>
 
@@ -132,7 +133,7 @@ The algorithm terminates if the population has converged. Then it is said that t
 
 ## Example Implementation in Java to Guess a Word 
 
-1. Initial population
+1. Initial population 
 
    - Create Individual :
    
